@@ -11,7 +11,7 @@ const AboutTemplate = () => {
     <Wrapper>
       <Introduce />
       <Favorite />
-      <Question />
+      {/* <Question /> */}
       <Career />
       <Question2 />
     </Wrapper>
