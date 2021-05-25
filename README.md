@@ -1,71 +1,21 @@
-# Getting Started with Create React App
+# 📌 2021 My Portfolio (2021)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ✏ 프로젝트 소개
+React로 제작한 저를 소개하는 2021 포트폴리오입니다.  
+기획 / 디자인 / 코딩 / 배포 까지 모두 혼자서 작업하였습니다.  
 
-## Available Scripts
+## 🖱 사용 언어
+**React**, Router, styled-components, React Hooks, React Icons
 
-In the project directory, you can run:
+## ✏ 프로젝트를 통해 배운 점
+퍼블리싱(마크업)작업에서 좀 더 전문성있는 사람이 되고자  
+프론트엔드 언어들(NodeJs, React, Redux 등..)를 처음 공부하기 시작하면서  
+책의 예제를 따라하거나 클론코딩을 하는 경우가 많았습니다.  
+이번 포트폴리오를 만들면서는 시작부터 끝까지 혼자 직접 구현해보고,  
+배운 것들을 최대한 활용하면서 여태까지와는 다른 배움이 있었습니다.  
+막히는 부분에서는 힘들었지만 극복하면서 흥미로움을 느꼈고,  
+조금 더 깊게 많은 것들을 구현할 수 있도록 노력해야겠다고 생각했습니다.  
 
-### `npm start`
+![](https://images.velog.io/images/hyerimiya/post/7528c645-11eb-4882-b97f-d9fcbc8b41bc/pc.jpg)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# 2021-hyerim-portfolio
+![](https://images.velog.io/images/hyerimiya/post/70dd5067-73f3-45bf-b3f1-16099b7fb784/tablet.jpg)
