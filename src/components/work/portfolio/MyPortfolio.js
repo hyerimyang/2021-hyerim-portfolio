@@ -15,7 +15,7 @@ export default () => (
     imageUrl= {imgUrl}
     skill= {children[1]}
     webUrl= "https://hyerim-2021-portfolio.herokuapp.com/"
-    GithubUrl= "https://github.com/hyerimyang/2021-portfolio"
+    GithubUrl= "https://github.com/hyerimyang/2021-hyerim-portfolio"
   >
   </Poster>
 );
